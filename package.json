@@ -1,0 +1,15 @@
+{
+  "name": "dojo-bad-library-types",
+  "version": "1.0.0",
+  "description": "A dojo to learn to fix badly-typed libraries",
+  "main": "index.ts",
+  "scripts": {},
+  "author": "Raphaël Dhôte",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "badly-typed-package": "0.0.1"
+  }
+}
